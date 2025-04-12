@@ -1,6 +1,6 @@
-<h2 align="left">- 👋 Hi, I’m Matheus
-- 👀 I’m interested in Full-Stack Web Development
-- 🌱 I’m currently very learning artificial intelligence</h2>
+<h2 align="left">- 👋 Hi, I’m Matheus</h2>
+<h2 align="left">- 👀 I’m interested in Full-Stack Web Development</h2>
+<h2 align="left">- 🌱 I’m currently very learning artificial intelligence</h2>
 
 ###
 
@@ -46,7 +46,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.youtube.com/channel/UChnp9qp48Kf3HZ99LwPkx9w" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
