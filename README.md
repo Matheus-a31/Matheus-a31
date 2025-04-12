@@ -49,15 +49,9 @@
   <a href="https://www.youtube.com/channel/UChnp9qp48Kf3HZ99LwPkx9w" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
-  <a href="www.linkedin.com/in/matheus-oliveira31" target="_blank">
+  <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BOlqoX7EoSQaTuSJae2D5xA%3D%3D" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=Matheus-a31&theme=dark" alt="Layout with last medium posts"  />
 </div>
 
 ###
