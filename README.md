@@ -56,8 +56,5 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Matheus-a31/count.svg?"  />
-</div>
 
 ###
