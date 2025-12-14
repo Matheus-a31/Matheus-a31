@@ -5,10 +5,9 @@
 ###
 
 <div align="center">
-  <h3>Linguagens Principais</h3>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <br> </div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus-a31&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-a31&layout=compact&theme=dracula&hide=html,css,jupyter%20notebook&langs_count=6"/>
+</div>
   
 ###
 
