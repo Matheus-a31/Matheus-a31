@@ -1,6 +1,6 @@
-<h2 align="left">- 👋 Hi, I’m Matheus</h2>
-<h2 align="left">- 👀 I’m interested in Full-Stack Web Development</h2>
-<h2 align="left">- 🌱 I’m currently very learning artificial intelligence</h2>
+<h2 align="left">- Hi, I’m Matheus</h2>
+<h2 align="left">- I’m interested in Full-Stack Web Development</h2>
+<h2 align="left">- I’m currently very learning artificial intelligence</h2>
 
   
 ###
